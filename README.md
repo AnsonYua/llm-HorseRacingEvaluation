@@ -4,9 +4,11 @@ Since the release of DeepSeek, large language models (LLMs) have demonstrated si
 ![Diagram](horce.drawio.png)
 ### Data Preparation
 Get current match data from 排位表
-![screen1](screen1.png){width=300}
+![screen1](screen1.png){width=300 height=200}
+
 Get Historical data for each horse from horse information
-![screen2](screen2.png){width=300}
+![screen2](screen2.png){width=300 height=200}
 
 Aggregate and form the query to gpt (Sample data):
-![Diagram](sampledata.png){width=300}
+![Diagram](sampledata.png){width=300 height=200}
+
